@@ -1,0 +1,28 @@
+.watches-container {
+  display: flex;
+}
+.watch {
+  font-family: Roboto;
+  padding: 10px;
+  margin: 10px;
+  width: 230px;
+  color: white;
+  text-align: center;
+  border-radius: 8px;
+}
+.america {
+  background-color: lightslategrey;
+}
+.india {
+  background-image: linear-gradient(
+    45deg,
+    #fed975,
+    #fa7f1e,
+    #d72976,
+    #9630be,
+    #4f5cd5
+  );
+}
+.japan {
+  background-color: darkslategray;
+}
